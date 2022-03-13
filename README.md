@@ -1,3 +1,2 @@
 ### Student Life
-    I did my matric and Intermediate from Higher Secondary School at Ghazi Ghat... 
-    For now, I am a Student of Computer Science in reputed University (Sukkur IBA University) as a Schollar. (2019-present)
+   For now, I am a Student of Computer Science in reputed University (Sukkur IBA University) as a Schollar. (2019-present)

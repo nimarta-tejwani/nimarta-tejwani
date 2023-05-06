@@ -1,7 +1,7 @@
 ## Nimarta Devi
 
 ### About Me
-I'm a Machine Learning Engineer & I enjoy solving problems. I'm really fascinated by the recent advancement in the Data AI/ML, Computer Vision and Data Science & I'm trying to keep up with these advances. 
+I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by the recent advancement in the Data AI/ML, Computer Vision and Data Science & I'm trying to keep up with these advances. 
 
 <a href="https://www.linkedin.com/in/nimarta-tejwani/">
   <img align="left" alt="Nimarta's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -20,7 +20,7 @@ I'm a Machine Learning Engineer & I enjoy solving problems. I'm really fascinate
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### Skills and Technologies I'm working on:
-- Programming Languages (Python, Java, C++, C#)
+- Programming Languages (Python, R)
 - Data Engineering, ETL
 - ML/DL Algorithms (ScikitLearn, Keras, Tensorflow)
 - Data Wrangling (Pandas, NumPy, Seaborn, Matplotlib)

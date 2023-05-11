@@ -33,7 +33,9 @@ I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by th
 </br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+## 📊 GitHub Stats:
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-devi)    
 <br/>
-![GitHub Trophies ](https://github-readme-stats.vercel.app/api/top-langs/?username=nimarta-devi)  
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=nimarta-devi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+

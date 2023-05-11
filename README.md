@@ -21,9 +21,11 @@ I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by th
 
 ### Skills and Technologies I'm working on:
 - Programming Languages (Python, R)
-- Data Engineering, ETL
+- Data Engineering
+- ETL
 - ML/DL Algorithms (ScikitLearn, Keras, Tensorflow)
-- Data Wrangling (Pandas, NumPy, Seaborn, Matplotlib)
+- Data Wrangling (Pandas, NumPy)
+- Data Visualization (Seaborn, Matplotlib)
 - Computer Vision (OpenCV, Pillow, PyTorch)
 - NLP
 - Web Scraping (Selenium, Requests, BeautifulSoup)

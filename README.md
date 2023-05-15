@@ -1,6 +1,5 @@
 ## Hi, I'm Nimarta
 
-### About Me
 I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by the recent advancement in the Data AI/ML, Computer Vision and Data Science & I'm trying to keep up with these advances. 
 
 <a href="https://www.linkedin.com/in/nimarta-tejwani/">

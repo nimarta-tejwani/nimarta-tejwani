@@ -1,4 +1,4 @@
-## Hi, I'm Nimarta
+## Hi, I'm Nimarta 
 
 I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by the recent advancement in the Data AI/ML, Computer Vision and Data Science & I'm trying to keep up with these advances. 
 

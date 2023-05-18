@@ -2,9 +2,9 @@
 
 <h3>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmoinfaisal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-<a href="https://www.linkedin.com/in/nimarta-tejwani/">
+<!-- <a href="https://www.linkedin.com/in/nimarta-tejwani/">
   <img align="left" alt="Nimarta's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
@@ -14,7 +14,7 @@
 
 <a href="https://github.com/nimarta-devi">
   <img align="left" alt="Nimarta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
+</a> -->
 <br/>
 
 <h3 align="left">Connect with me:</h3>

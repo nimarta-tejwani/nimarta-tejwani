@@ -1,29 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimarta</h1>
 
-<h3>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h3>
+<h4>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
-
-<!-- <a href="https://www.linkedin.com/in/nimarta-tejwani/">
-  <img align="left" alt="Nimarta's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="https://medium.com/@nimarta_tejwani">
-  <img align="left" alt="Nimarta's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@4.9.0/icons/medium.svg" />
-</a>
-
-<a href="https://github.com/nimarta-devi">
-  <img align="left" alt="Nimarta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> -->
-
-
-<!-- <h3 align="left">Connect with me:</h3>
-<p align="left"> -->
-<!-- <a href="https://twitter.com/nielsencv_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimarta" height="30" width="40" /></a> -->
-<!-- <a href="https://www.linkedin.com/in/nimarta-tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimarta" height="30" width="40" /></a>
-<a href="https://medium.com/@nimarta_tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nimarta" height="30" width="40" /></a>
-   -->
- <h3 align="left">Connect with me:</h3> 
+ <h3 align="left"> 🌐 Connect with me:</h3> 
  
  [![Instagram](https://img.shields.io/badge/medium-%200077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@nimarta_tejwani) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nimarta-tejwani) 
@@ -31,7 +10,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-### Skills and Technologies I'm working on:
+### 💻 Skills and Technologies:
 - Programming Languages (Python, R)
 - Data Engineering
 - ETL
@@ -44,17 +23,19 @@
 - BigQuery
 - AutoML
 - Databases (MySQL, MongoDB, Firebase)
-</br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 📊 GitHub Stats:
+<!-- ![](https://github-readme-stats.vercel.app/api?username=nimarta-devi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-devi)    
-
-<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-devi&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimarta-devi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=nimarta-devi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+
+
 

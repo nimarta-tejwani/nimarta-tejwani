@@ -15,7 +15,6 @@
 <a href="https://github.com/nimarta-devi">
   <img align="left" alt="Nimarta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> -->
-<br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

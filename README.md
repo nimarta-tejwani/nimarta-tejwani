@@ -24,6 +24,7 @@
 <a href="https://medium.com/@nimarta_tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nimarta" height="30" width="40" /></a>
    -->
  <h3 align="left">Connect with me:</h3> 
+ 
  [![Instagram](https://img.shields.io/badge/medium-%200077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@nimarta_tejwani) 
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nimarta-tejwani) 
  

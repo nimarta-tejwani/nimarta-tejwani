@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nimarta</h1>
 
-I'm a Machine Learning Engineer & I enjoy solving problems. I'm fascinated by the recent advancement in the Data AI/ML, Computer Vision and Data Science & I'm trying to keep up with these advances. 
+<h3>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadmoinfaisal" /> </p>
 
 <a href="https://www.linkedin.com/in/nimarta-tejwani/">
   <img align="left" alt="Nimarta's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />

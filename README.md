@@ -16,11 +16,17 @@
   <img align="left" alt="Nimarta's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a> -->
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/nielsencv_ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nimarta" height="30" width="40" /></a> -->
-<a href="https://www.linkedin.com/in/nimarta-tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimarta" height="30" width="40" /></a>
+<!-- <a href="https://www.linkedin.com/in/nimarta-tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimarta" height="30" width="40" /></a>
 <a href="https://medium.com/@nimarta_tejwani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="nimarta" height="30" width="40" /></a>
+   -->
+ [![Instagram](https://img.shields.io/badge/medium-%200077B5.svg?logo=Medium&logoColor=white)](https://medium.com/@nimarta_tejwani) 
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/nimarta-tejwani) 
+ 
+  
 </p>
 
 <br/>

@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nimarta</h1>
+<h1 align="center">Hi 👋, I'm Nimarta </h1>
 
 <h4>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h4>
 

@@ -11,17 +11,18 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ### 💻 Skills and Technologies:
-- Programming Languages (Python, R)
+- Programming Languages (Python, R, Java, C++, C#)
 - Data Engineering
 - ETL
 - ML/DL Algorithms (ScikitLearn, Keras, Tensorflow)
 - Data Wrangling (Pandas, NumPy)
-- Data Visualization (Seaborn, Matplotlib)
+- Data Visualization (Seaborn, Matplotlib, PlotLy)
 - Computer Vision (OpenCV, Pillow, PyTorch)
 - NLP
 - Web Scraping (Selenium, Requests, BeautifulSoup)
 - BigQuery
 - AutoML
+- Weka
 - Databases (MySQL, MongoDB, Firebase)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">

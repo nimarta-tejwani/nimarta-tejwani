@@ -29,14 +29,14 @@
 
 ## 📊 GitHub Stats:
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nimarta-devi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-devi&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-tejwani&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-devi&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimarta-devi&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-tejwani&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimarta-tejwani&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=nimarta-devi&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=nimarta-tejwanii&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
 
 
 

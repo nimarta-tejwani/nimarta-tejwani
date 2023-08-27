@@ -19,6 +19,7 @@
 - Data Visualization (Seaborn, Matplotlib, PlotLy)
 - Computer Vision (OpenCV, Pillow, PyTorch)
 - NLP
+- Generative AI
 - Web Scraping (Selenium, Requests, BeautifulSoup)
 - BigQuery
 - AutoML

@@ -32,6 +32,9 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=nimarta-devi&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimart-tejwani&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nimarta-tejwani&show_icons=true&locale=en" alt="nimarta-tejwani" /></p>
+
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=nimarta-tejwani&theme=merko&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nimarta-tejwani&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 

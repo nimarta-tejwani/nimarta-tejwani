@@ -20,7 +20,7 @@
 - Computer Vision 
 - NLP
 - Generative AI
-- Web Scraping (Selenium, Requests, BeautifulSoup)
+- Web Scraping
 - BigQuery
 - AutoML
 - Weka

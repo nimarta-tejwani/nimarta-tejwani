@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nimarta </h1>
 
-<h4>I'm a Machine Learning Engineer & I help people build Machine Learning Pipelines and Computer Vision Applications.</h4>
+<h4>I'm a Machine Learning Engineer, and I wield the magic of crafting Machine Learning Pipelines and breathing life into Computer Vision Applications. ✨💻🔮</h4>
 
  <h3 align="left"> 🌐 Connect with me:</h3> 
  
